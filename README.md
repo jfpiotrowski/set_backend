@@ -3,7 +3,7 @@ This is a repo containing the backend of a web application to serve the game SET
 
 ## How to run the backend
 * npm install
-* npm run serve
+* node ./index.js
 * don't forget to run set_frontend!
 
 ## Design Usecase
